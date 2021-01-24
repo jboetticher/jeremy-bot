@@ -9,3 +9,4 @@ For this project, you will need to install FFmpeg(https://ffmpeg.org/) and will 
 5. Copy the VoiceLoopCommand.js file from src/utils/structures.  
   
 Should work afterwards. You can then follow the pattern in src/commands/voice to get the bot to start working.
+Tutorial if you don't know how to use slappey: https://www.youtube.com/watch?v=501qJByCkeg
